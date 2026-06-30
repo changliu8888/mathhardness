@@ -5,3 +5,4 @@ Can someone quantify the hardness of competition math problems/questions?  One i
 
 # dataset with lable
 
+The AMC 12 past problems AMC 12 collection of past problem https://artofproblemsolving.com/wiki/index.php/AMC_12_Problems_and_Solutions? 
