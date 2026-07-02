@@ -14,6 +14,7 @@ Problems after 2012 are harder than ones before.
 
 Olympics problems arranged by hardness rating is here. https://9f5ed0d0-7e72-472f-ade8-1021e63aa3e1.usrfiles.com/ugd/9f5ed0_e0fea50ba36c497081d745158ae2af5d.pdf 
 The creator of this hardness level later commented on this method. https://blog.evanchen.cc/mohs/ 
+Here is the pdf file for defining the hardness https://web.evanchen.cc/upload/MOHS-hardness.pdf 
 
 # the AI pipeline proposal
 The proposed AI pipeline is as follows.
