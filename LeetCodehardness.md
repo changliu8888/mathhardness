@@ -9,5 +9,7 @@ LeetCode uses a three-tier difficulty scale—Easy, Medium, and Hard—to catego
 
 ELO style rating https://en.wikipedia.org/wiki/Elo_rating_system 
 
+Leet contests to determine your ELO score https://leetcode.com/contest/ 
+
 # How colleges view perfect AMC12 scores
 https://www.collegebase.org/blog/amc-12-perfect-score-college-admissions
