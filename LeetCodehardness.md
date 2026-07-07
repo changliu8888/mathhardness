@@ -14,5 +14,9 @@ Leet contests to determine your ELO score https://leetcode.com/contest/
 Yes, Elo-style ranking and problem rating work very well for competitive programming, and many developers find LeetCode Contest Ratings highly effective. Sites like Codeforces use it to give problems precise difficulty ratings based on how users perform.
 https://codeforces.com/blog/entry/132170
 
+How Elo Works in CodingInstead of guessing whether you can solve a problem, platforms utilizing an Elo system (like Codeforces or Zero Track) assign both the user and the problem numerical ratings.
+If your Elo matches the problem Elo: You are mathematically expected to solve it in half of your contests.Practicing efficiently: To improve, experts recommend practicing problems that sit about 100-200 points above your current Elo. 
+This provides a challenge without overwhelming you
+
 # How colleges view perfect AMC12 scores
 https://www.collegebase.org/blog/amc-12-perfect-score-college-admissions
