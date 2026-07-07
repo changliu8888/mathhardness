@@ -11,5 +11,8 @@ ELO style rating https://en.wikipedia.org/wiki/Elo_rating_system
 
 Leet contests to determine your ELO score https://leetcode.com/contest/ 
 
+Yes, Elo-style ranking and problem rating work very well for competitive programming, and many developers find LeetCode Contest Ratings highly effective. Sites like Codeforces use it to give problems precise difficulty ratings based on how users perform.
+https://codeforces.com/blog/entry/132170
+
 # How colleges view perfect AMC12 scores
 https://www.collegebase.org/blog/amc-12-perfect-score-college-admissions
