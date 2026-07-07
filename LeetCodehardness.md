@@ -18,5 +18,11 @@ How Elo Works in CodingInstead of guessing whether you can solve a problem, plat
 If your Elo matches the problem Elo: You are mathematically expected to solve it in half of your contests.Practicing efficiently: To improve, experts recommend practicing problems that sit about 100-200 points above your current Elo. 
 This provides a challenge without overwhelming you
 
+On LeetCode, an Elo rating measures your competitive programming skill relative to other participants based on your performance in Weekly and Biweekly Contests. Every user starts at a baseline rating of 1500, which increases or decreases after each contest depending on how you place.How the Rating System WorksThe Elo rating system was originally designed for 1v1 games (like chess). LeetCode adapts it for multi-person contests by treating your placement as a series of matchups against every other participant.Outperforming users with higher ratings increases your rating significantly.Underperforming against lower-rated users causes your rating to drop.What Your Rating MeansUsers on the LeetCode Discuss forum generally agree that the numbers break down into the following skill milestones:
+  1200: Solves very few "Easy" problems.1400: Solves most "Easy" problems and an occasional "Medium".
+  1500: The default starting rating for all first-time competitors.1600: Solves most "Easy" and many "Medium" problems comfortably.
+  1750+: Solves "Easy", a large portion of "Medium", and begins tackling "Hard" problems.
+  2200+: Elite, top-tier competitive programmers.
+
 # How colleges view perfect AMC12 scores
 https://www.collegebase.org/blog/amc-12-perfect-score-college-admissions
