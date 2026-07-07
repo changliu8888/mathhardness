@@ -7,5 +7,7 @@ LeetCode uses a three-tier difficulty scale—Easy, Medium, and Hard—to catego
 4. LeetCode also uses a percentage-based acceptance rate (how many submitted solutions were accepted versus total attempts). However, this can be misleading, as some problems have low acceptance rates simply because they have strict edge cases rather than being conceptually difficult.
 5. Contest Rating: LeetCode hosts **weekly contests** that assign a public Elo-style rating to users. According to user discussions, solving Hard questions comfortably usually correlates to a Codeforces blue-tier or high-level LeetCode rating.Many experienced engineers recommend prioritizing deeply understanding high-yield patterns (like those on curated lists like NeetCode) rather than trying to brute force a massive quantity of problems.
 
+ELO style rating https://en.wikipedia.org/wiki/Elo_rating_system 
+
 # How colleges view perfect AMC12 scores
 https://www.collegebase.org/blog/amc-12-perfect-score-college-admissions
