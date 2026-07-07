@@ -23,3 +23,12 @@ The proposed AI pipeline is as follows.
 3. Build a CNN/deep learning model to learn the hardness level.
 4. Build a colab interface to allow someone to input a test problem and output degree of difficulty estimate.
 5. Provide validation of estimates.
+
+# Discussion on July 6
+Take a look at how people do the lead code 
+And we're looking to historical completion rate and maybe scores to catalog the difficulty 
+Need to look into how to turn the problem into latex table 
+We can possibly use some human endeavors to collect data
+Some of this metrics might be personalized and used to identify Target weakness area 
+Also, the problems may be classified according to the areas like geometry, member, series, probability and so on 
+
