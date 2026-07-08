@@ -35,5 +35,10 @@ Also, the problems may be classified according to the areas like geometry, membe
 # Notes on 7/8
 I did investigation of ELO style math (mathgauss and mathjack).  MathGauss is like leet code but it only use existing problems.  MathJack is for olympiad questions.  
 It would be possible to determine the level of a student and problem by using ELO style frequent contests.  
+https://mathgauss.com/
+https://mathjack.org/
+
+People are also making a new language called "LEAN" to write formal proofs.
+https://lean-lang.org/ 
 
 It may be possible to "generate" good questions using LLM and in term using LLM to solve it to test the quality.
