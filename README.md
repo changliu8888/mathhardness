@@ -32,3 +32,8 @@ We can possibly use some human endeavors to collect data
 Some of this metrics might be personalized and used to identify Target weakness area 
 Also, the problems may be classified according to the areas like geometry, member, series, probability and so on 
 
+# Notes on 7/8
+I did investigation of ELO style math (mathgauss and mathjack).  MathGauss is like leet code but it only use existing problems.  MathJack is for olympiad questions.  
+It would be possible to determine the level of a student and problem by using ELO style frequent contests.  
+
+It may be possible to "generate" good questions using LLM and in term using LLM to solve it to test the quality.
