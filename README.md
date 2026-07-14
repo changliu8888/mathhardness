@@ -43,3 +43,8 @@ https://lean-lang.org/
 Math lean theoram provers https://matharena.ai/ it has a difficulty setting.
 
 It may be possible to "generate" good questions using LLM and in term using LLM to solve it to test the quality.
+
+# Notes 7/13
+1. To investigate and try mathgauss
+2. Look up academic publications
+3. Maybe not necessary to use new questions ... but it is important that the ranking ELO must MEAN SOMETHING to contestants to guide their development.  This is assuming they are honest and mean nothing bad.
