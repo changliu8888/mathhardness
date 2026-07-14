@@ -25,7 +25,7 @@ The proposed AI pipeline is as follows.
 5. Provide validation of estimates.
 
 # Discussion on July 6
-Take a look at how people do the lead code 
+Take a look at how people do the leet code  ** Leet code use a paywall for monetization
 And we're looking to historical completion rate and maybe scores to catalog the difficulty 
 Need to look into how to turn the problem into latex table 
 We can possibly use some human endeavors to collect data
@@ -40,6 +40,6 @@ https://mathjack.org/
 
 People are also making a new language called "LEAN" to write formal proofs.
 https://lean-lang.org/ 
-Math lean theoram provers https://matharena.ai/ 
+Math lean theoram provers https://matharena.ai/ it has a difficulty setting.
 
 It may be possible to "generate" good questions using LLM and in term using LLM to solve it to test the quality.
